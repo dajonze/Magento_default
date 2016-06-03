@@ -1,0 +1,7 @@
+.sb-slide, .sb-site, .sb-site-container, .sb-slidebar{ -webkit-transform: none; -ms-transform: none; transform: none;}
+.mobiCart,
+.mobiSearch,
+.toggle-left.icon-th-list { display: none !important;}
+#yt_header.header1-wrap .head-searchbox,
+.head-cart{ display: block !important;}
+.searchautocomplete .input-text.UI-SEARCH.UI-NAV-INPUT{ padding-left:46px;}
